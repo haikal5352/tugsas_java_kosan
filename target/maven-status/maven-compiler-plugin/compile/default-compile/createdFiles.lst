@@ -1,0 +1,10 @@
+com\kosapp\model\Kamar.class
+com\kosapp\model\User.class
+com\kosapp\repository\UserRepository.class
+com\kosapp\controller\KamarController.class
+com\kosapp\controller\PemesananController.class
+com\kosapp\KosAppApplication.class
+com\kosapp\model\Pemesanan.class
+com\kosapp\controller\UserController.class
+com\kosapp\repository\KamarRepository.class
+com\kosapp\repository\PemesananRepository.class
